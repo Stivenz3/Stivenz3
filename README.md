@@ -37,13 +37,5 @@ Estudiante de Ingeniería de Sistemas y Computación, con interés en el desarro
 
 ---
 
-## Estadísticas  
-
-![Stiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default)  
-
----
-
 ## Contacto  
 - Correo: zarzalol@hotmail.com   
