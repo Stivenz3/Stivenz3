@@ -1,16 +1,42 @@
-## Hi there 👋
+# Stiven Zarza  
 
-<!--
-**Stivenz3/Stivenz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas y Computación, con interés en el desarrollo de software, redes y arquitectura de aplicaciones. Me enfoco en aprender y aplicar buenas prácticas de programación, metodologías modernas y herramientas que permitan crear soluciones escalables y eficientes.  
 
-Here are some ideas to get you started:
+## Tecnologías  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend  
+- HTML  
+- CSS  
+- JavaScript  
+- Vue.js  
+- React  
+
+### Backend  
+- Node.js  
+- Express  
+- Spring Boot  
+- Java  
+- Python (Flask)  
+
+### Bases de datos  
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+
+### Herramientas y control de versiones  
+- Git  
+- GitHub  
+
+### Entornos y editores  
+- Visual Studio Code  
+- IntelliJ IDEA  
+
+### Otros  
+- Google Cloud  
+- Postman  
+- Windows  
+
+## Contacto  
+- Correo: zarzalol@hotmail.com  
+ 
+
