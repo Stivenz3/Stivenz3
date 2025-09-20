@@ -39,4 +39,4 @@ Estudiante de Ingeniería de Sistemas y Computación, con interés en el desarro
 
 ## Contacto  
 - Correo: zarzalol@hotmail.com
-- Portafolio:[ [stiven-zarza.vercel.app](https://stiven-zarza.vercel.app/)
+- Portafolio:[stiven-zarza.vercel.app](https://stiven-zarza.vercel.app/)
