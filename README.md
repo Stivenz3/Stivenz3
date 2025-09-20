@@ -1,6 +1,6 @@
 # Stiven Zarza  
 
-Estudiante de Ingeniería de Sistemas y Computación, con interés en el desarrollo de software, redes y arquitectura de aplicaciones. Me enfoco en aprender y aplicar buenas prácticas de programación, metodologías modernas y herramientas que permitan crear soluciones escalables y eficientes.  
+Estudiante de Ingeniería de Sistemas y Computación, con interés en el desarrollo de software arquitectura de aplicaciones. Me enfoco en aprender y aplicar buenas prácticas de programación, metodologías modernas y herramientas que permitan crear soluciones escalables y eficientes.  
 
 ---
 
