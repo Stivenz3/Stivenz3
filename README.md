@@ -9,7 +9,7 @@
 
 ### 🖥️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -37,8 +37,8 @@
 ### ⚡ Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=stivenzarza&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=stivenzarza&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Stivenz3&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Stivenz3&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
@@ -46,15 +46,15 @@
 ### 🧠 Intereses actuales
 
 - 🌱 Aprendiendo **arquitectura de microservicios** y **DevOps**  
-- 🔧 Experimentando con **Docker**, **Firebase** y **CI/CD**  
+- 🔧 Experimentando con **Docker**, **Firebase**  
 - 🚀 Mejorando mis habilidades en **React** y **Spring Boot**
 
 ---
 
 ### 📬 Contacto
 
-📧 **zarzalol@hotmail.com**  
-🌐 [**stiven-zarza.vercel.app**](https://stiven-zarza.vercel.app/)
+📧 Correo: **zarzalol@hotmail.com**  
+🌐 Portafolio: [**stiven-zarza.vercel.app**](https://stiven-zarza.vercel.app/)
 
 ---
 
@@ -65,5 +65,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stivenzarza&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Stivenz3&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas" />
 </p>
+
