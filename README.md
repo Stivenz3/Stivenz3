@@ -2,52 +2,56 @@
 
 <p align="center">
   <b>Estudiante de Ingeniería de Sistemas y Computación</b><br>
-  Apasionado por el desarrollo de software, la arquitectura de aplicaciones y las buenas prácticas de programación.
+  💻 Apasionado por el desarrollo de software, la arquitectura de aplicaciones y las buenas prácticas de programación.
 </p>
 
 ---
 
-### 🚀 Tecnologías que manejo
-
-#### 🖥️ Frontend
+### 🖥️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap" />
 </p>
 
-#### ⚙️ Backend
+### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,adonis,spring,java,python,flask" />
 </p>
 
-#### 🗄️ Bases de Datos
+### ☁️ Cloud / Servicios
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,gcp" />
+</p>
+
+### 🗄️ Bases de Datos
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-#### 🧰 Herramientas
+### 🧰 Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,gcp,windows" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,windows" />
 </p>
 
 ---
 
-### 📊 Mis estadísticas en GitHub
+### ⚡ Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stivenzarza&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stivenzarza&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=stivenzarza&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=stivenzarza&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
-### 🧠 Tecnologías más usadas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stivenzarza&layout=compact&theme=tokyonight" />
-</p>
+### 🧠 Intereses actuales
+
+- 🌱 Aprendiendo **arquitectura de microservicios** y **DevOps**  
+- 🔧 Experimentando con **Docker**, **Firebase** y **CI/CD**  
+- 🚀 Mejorando mis habilidades en **React** y **Spring Boot**
 
 ---
 
-### 💬 Contacto
+### 📬 Contacto
 
 📧 **zarzalol@hotmail.com**  
 🌐 [**stiven-zarza.vercel.app**](https://stiven-zarza.vercel.app/)
@@ -56,4 +60,10 @@
 
 <p align="center">
   <i>"El código limpio no solo funciona, también inspira confianza."</i> 💡
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stivenzarza&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas" />
 </p>
