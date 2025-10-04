@@ -65,6 +65,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Stivenz3&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Stivenz3&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="views" />
 </p>
 
