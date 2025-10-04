@@ -37,9 +37,10 @@
 ### ⚡ Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Stivenz3&show_icons=true&theme=tokyonight&count_private=true&v=3" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Stivenz3&layout=compact&theme=tokyonight&v=3" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Stivenz3&show_icons=true&theme=tokyonight&count_private=true&v=6" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Stivenz3&layout=compact&theme=tokyonight&v=6" height="165" />
 </p>
+
 
 
 ---
