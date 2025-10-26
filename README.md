@@ -9,12 +9,12 @@
 
 ### 🖥️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,nextjs,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,adonis,spring,java,python,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,adonis,spring,java,python,flask" />
 </p>
 
 ### ☁️ Cloud / Servicios
