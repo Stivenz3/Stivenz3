@@ -14,7 +14,7 @@
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,adonis,spring,java,python,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,adonis,spring,java,python,flask" />
 </p>
 
 ### ☁️ Cloud / Servicios
